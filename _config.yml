@@ -1,0 +1,7 @@
+title: Ahmed’s Newsletter
+author: Ahmed Elkollaly
+description: Platform engineering, reliability, and growth.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
