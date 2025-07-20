@@ -5,3 +5,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+substack_url: https://ahmedelkolaly.substack.com
